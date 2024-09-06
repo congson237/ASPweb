@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "MayTinh";
+}
+
+@if (ViewBag.ThongBao != null)
+{
+    <h1>@ViewBag.ThongBao</h1>
+}
+else
+{
+    <h1>Kết quả của phép tính là: @ViewBag.KetQua</h1>
+}
