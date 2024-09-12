@@ -1,1 +1,1 @@
-abcdef
+builder.Services.AddRazorPages().AddRazorRuntimeCompilation();
