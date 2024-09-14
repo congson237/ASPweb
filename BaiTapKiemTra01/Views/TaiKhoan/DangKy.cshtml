@@ -1,0 +1,34 @@
+﻿
+@{
+    ViewData["Title"] = "DangKy";
+}
+@model TaiKhoanViewModel
+
+<div class="container">
+    <h3>Đăng ký</h3>
+    <form method="post">
+      
+            <label for="TenTaiKhoan">Tên tài khoản:</label>
+            <input type="text" id="TenTaiKhoan" name="TenTaiKhoan" class="form-control" />
+       
+            <label for="MatKhau">Mật khẩu:</label>
+            <input type="password" id="MatKhau" name="MatKhau" class="form-control" />
+        
+            <label for="HoTen">Họ tên:</label>
+            <input type="text" id="HoTen" name="HoTen" class="form-control" />
+       
+            <label for="Tuoi">Tuổi:</label>
+            <input type="number" id="Tuoi" name="Tuoi" class="form-control" />
+     
+        <button type="submit" class="btn btn-primary">Đăng ký</button>
+    </form>
+    <hr />
+    @if (Model != null && Model.TenTaiKhoan != null)
+    {
+        <h3>Thông tin đã nhập:</h3>
+        <p>Tên tài khoản: @Model.TenTaiKhoan</p>
+        <p>Mật khẩu: @Model.MatKhau</p>
+        <p>Họ tên: @Model.HoTen</p>
+        <p>Tuổi: @Model.Tuoi</p>
+    }
+</div>
