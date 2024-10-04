@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\LTWEBASP\ASPweb\Project
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/LTWEBASP/ASPweb/Project/Areas/Admin/Views/SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LTWEBASP/ASPweb/Project/Areas/Admin/Views/SanPham/Upsert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2FuUGhhbVxVcHNlcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/LTWEBASP/ASPweb/Project/Areas/Admin/Views/TheLoai/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcVGhlTG9haVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,12 +62,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTWEBASP/ASPweb/Project/Areas/Customer/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcSG9tZVxJbmRleC5jc2h0bWw=
+[D:/LTWEBASP/ASPweb/Project/Areas/Customer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/LTWEBASP/ASPweb/Project/Areas/Customer/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[D:/LTWEBASP/ASPweb/Project/Areas/Customer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQ3VzdG9tZXJcVmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/LTWEBASP/ASPweb/Project/Areas/Customer/Views/_ViewImports.cshtml]

@@ -66,7 +66,7 @@ namespace Project.Controllers
 		[HttpGet]
 		public IActionResult Delete(int id)
 		{
-			if (id == 0)
+			if (id == 0) 
 			{
 				return NotFound();
 			}

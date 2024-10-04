@@ -11,7 +11,7 @@ namespace Project.Data
 		{
 		}
 		public DbSet<TheLoai> TheLoai{ get; set; }
-		public DbSet<SanPham> SanPham { get; set; }
+		public DbSet<sanpham> SanPham { get; set; }
 
 
 	}
