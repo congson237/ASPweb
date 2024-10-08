@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.CodeAnalysis.Elfie.Model.Tree;
 using Microsoft.EntityFrameworkCore;
@@ -8,7 +9,8 @@ using Project.Models;
 namespace Project.Controllers
 {
 	[Area("Admin")]
-	public class SanPhamController : Controller
+    [Authorize(Roles = "Admin")]
+    public class SanPhamController : Controller
 	{
 		private readonly ApplicationDbContext _db;
 		public SanPhamController(ApplicationDbContext db)
