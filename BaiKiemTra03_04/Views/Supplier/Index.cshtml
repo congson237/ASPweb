@@ -1,0 +1,31 @@
+﻿@model IEnumerable<BaiKiemTra03_04.Models.Supplier>
+<h1>Suppliers</h1>
+<a asp-action="Create">Create New Supplier</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>Supplier ID</th>
+            <th>Supplier Name</th>
+            <th>Address</th>
+            <th>Phone Number</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var supplier in Model)
+        {
+            <tr>
+                <td>@supplier.SupplierId</td>
+                <td>@supplier.SupplierName</td>
+                <td>@supplier.Address</td>
+                <td>@supplier.PhoneNumber</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@supplier.SupplierId">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@supplier.SupplierId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
