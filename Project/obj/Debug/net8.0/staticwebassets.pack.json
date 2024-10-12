@@ -5,12 +5,116 @@
       "PackagePath": "staticwebassets\\Project.bundle.scp.css"
     },
     {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\templatemo-topic-listing.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-topic-listing.css"
+    },
+    {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\businesswoman-using-tablet-analysis.jpg",
+      "PackagePath": "staticwebassets\\images\\businesswoman-using-tablet-analysis.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\colleagues-working-cozy-office-medium-shot.jpg",
+      "PackagePath": "staticwebassets\\images\\colleagues-working-cozy-office-medium-shot.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\faq_graphic.jpg",
+      "PackagePath": "staticwebassets\\images\\faq_graphic.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\rear-view-young-college-student.jpg",
+      "PackagePath": "staticwebassets\\images\\rear-view-young-college-student.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\colleagues-working-cozy-office-medium-shot.png",
+      "PackagePath": "staticwebassets\\images\\topics\\colleagues-working-cozy-office-medium-shot.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Compose_music_re_wpiw.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Compose_music_re_wpiw.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Educator_re_ju47.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Educator_re_ju47.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Finance_re_gnv2.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Finance_re_gnv2.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Graduation_re_gthn.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Graduation_re_gthn.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Group_video_re_btu7.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Group_video_re_btu7.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Podcast_audience_re_4i5q.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Podcast_audience_re_4i5q.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Redesign_feedback_re_jvm0.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_Remote_design_team_re_urdx.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_Remote_design_team_re_urdx.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_happy_music_g6wc.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_happy_music_g6wc.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_online_ad_re_ol62.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_online_ad_re_ol62.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\undraw_viral_tweet_gndb.png",
+      "PackagePath": "staticwebassets\\images\\topics\\undraw_viral_tweet_gndb.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\click-scroll.js",
+      "PackagePath": "staticwebassets\\js\\click-scroll.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky.js"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\site.js",
