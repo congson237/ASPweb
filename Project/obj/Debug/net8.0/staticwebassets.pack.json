@@ -5,20 +5,32 @@
       "PackagePath": "staticwebassets\\Project.bundle.scp.css"
     },
     {
-      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\bootstrap-icons.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\templatemo-topic-listing.css",
-      "PackagePath": "staticwebassets\\css\\templatemo-topic-listing.css"
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\favicon.ico",
@@ -33,6 +45,26 @@
       "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
     },
     {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\fonts\\octin_sports_rg.ttf",
+      "PackagePath": "staticwebassets\\fonts\\octin_sports_rg.ttf"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\agency-img.jpg",
+      "PackagePath": "staticwebassets\\images\\agency-img.jpg"
+    },
+    {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\businesswoman-using-tablet-analysis.jpg",
       "PackagePath": "staticwebassets\\images\\businesswoman-using-tablet-analysis.jpg"
     },
@@ -45,8 +77,80 @@
       "PackagePath": "staticwebassets\\images\\faq_graphic.jpg"
     },
     {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\free.svg",
+      "PackagePath": "staticwebassets\\images\\free.svg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\gifts.png",
+      "PackagePath": "staticwebassets\\images\\gifts.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\high-quality.svg",
+      "PackagePath": "staticwebassets\\images\\high-quality.svg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\line.png",
+      "PackagePath": "staticwebassets\\images\\line.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p1.png",
+      "PackagePath": "staticwebassets\\images\\p1.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p2.png",
+      "PackagePath": "staticwebassets\\images\\p2.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p3.png",
+      "PackagePath": "staticwebassets\\images\\p3.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p4.png",
+      "PackagePath": "staticwebassets\\images\\p4.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p5.png",
+      "PackagePath": "staticwebassets\\images\\p5.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p6.png",
+      "PackagePath": "staticwebassets\\images\\p6.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p7.png",
+      "PackagePath": "staticwebassets\\images\\p7.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\p8.png",
+      "PackagePath": "staticwebassets\\images\\p8.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\purse.png",
+      "PackagePath": "staticwebassets\\images\\purse.png"
+    },
+    {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\rear-view-young-college-student.jpg",
       "PackagePath": "staticwebassets\\images\\rear-view-young-college-student.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\saving-img.png",
+      "PackagePath": "staticwebassets\\images\\saving-img.png"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\slider-img.png",
+      "PackagePath": "staticwebassets\\images\\slider-img.png"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\topics\\colleagues-working-cozy-office-medium-shot.png",
@@ -97,8 +201,16 @@
       "PackagePath": "staticwebassets\\images\\topics\\undraw_viral_tweet_gndb.png"
     },
     {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\images\\truck.svg",
+      "PackagePath": "staticwebassets\\images\\truck.svg"
+    },
+    {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\click-scroll.js",
@@ -107,6 +219,10 @@
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\custom.js",
       "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
     },
     {
       "Id": "D:\\LTWEBASP\\ASPweb\\Project\\wwwroot\\js\\jquery.min.js",

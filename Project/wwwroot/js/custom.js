@@ -1,53 +1,29 @@
+// to get current year
+function getYear() {
+    var currentDate = new Date();
+    var currentYear = currentDate.getFullYear();
+    document.querySelector("#displayYear").innerHTML = currentYear;
+}
 
-  (function ($) {
-  
-  "use strict";
+getYear();
 
-    // MENU
-    $('.navbar-collapse a').on('click',function(){
-      $(".navbar-collapse").collapse('hide');
-    });
-    
-    // CUSTOM LINK
-    $('.smoothscroll').click(function(){
-      var el = $(this).attr('href');
-      var elWrapped = $(el);
-      var header_height = $('.navbar').height();
-  
-      scrollToDiv(elWrapped,header_height);
-      return false;
-  
-      function scrollToDiv(element,navheight){
-        var offset = element.offset();
-        var offsetTop = offset.top;
-        var totalScroll = offsetTop-navheight;
-  
-        $('body,html').animate({
-        scrollTop: totalScroll
-        }, 300);
-      }
-    });
+// owl carousel 
 
-    $(window).on('scroll', function(){
-      function isScrollIntoView(elem, index) {
-        var docViewTop = $(window).scrollTop();
-        var docViewBottom = docViewTop + $(window).height();
-        var elemTop = $(elem).offset().top;
-        var elemBottom = elemTop + $(window).height()*.5;
-        if(elemBottom <= docViewBottom && elemTop >= docViewTop) {
-          $(elem).addClass('active');
+$('.owl-carousel').owlCarousel({
+    loop: true,
+    margin: 10,
+    nav: true,
+    autoplay: true,
+    autoplayHoverPause: true,
+    responsive: {
+        0: {
+            items: 1
+        },
+        600: {
+            items: 3
+        },
+        1000: {
+            items: 6
         }
-        if(!(elemBottom <= docViewBottom)) {
-          $(elem).removeClass('active');
-        }
-        var MainTimelineContainer = $('#vertical-scrollable-timeline')[0];
-        var MainTimelineContainerBottom = MainTimelineContainer.getBoundingClientRect().bottom - $(window).height()*.5;
-        $(MainTimelineContainer).find('.inner').css('height',MainTimelineContainerBottom+'px');
-      }
-      var timeline = $('#vertical-scrollable-timeline li');
-      Array.from(timeline).forEach(isScrollIntoView);
-    });
-  
-  })(window.jQuery);
-
-
+    }
+})
